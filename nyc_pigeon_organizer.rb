@@ -3,5 +3,6 @@ def nyc_pigeon_organizer(data)
   data.collect do |key, element|
     key.collect do |name|
       name
+    end
   end
 end
