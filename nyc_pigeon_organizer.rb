@@ -5,4 +5,5 @@ def nyc_pigeon_organizer(data)
       name
     end
   end
+  new_data_set
 end
